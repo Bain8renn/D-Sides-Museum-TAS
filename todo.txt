@@ -1,22 +1,42 @@
+Completed:
+9D Max%
+Old 9DG (partially; no golden berry in the level itself)
+
 TO DO:
 
-Finish and Add Old 7D
-Improve 7E
-Improve Old 8D Mashup
-	Improve Old 8D Mashup with Red Berries
-Finish Drafting and Add 5BGV
-Set up sync check bot, either in a new discord server or in the main D-Sides server if people are ok with that.
-(Maybe) Add Prologue w/ Dashes
-Add the standard load files and all of that
-Improve Old Old 3D
-Improve Old 3D
-Improve Old 6D
-Improve Old 9D (w/o moonberry)
-	Improve Pre-Event Horizon
-	Improve Event Horizon
-	Improve Darkness Checkpoints/Pre-Summit
-	Improve Summit (0M-2500M)
-	Improve Summit (3000M + GOTM)
-	Improve Post-Summit / Cassette + Pink + Reuni
-	Improve Recon
-	Improve Final Goodbye Checkpoint
+Add submodule that links to main D-Sides repository
+
+Add/Draft following files:
+
+
+Main pack -
+
+Prologue-G (if there is a golden there, I don't remember if there is)
+1DG
+1DBG
+2DG
+2DBG
+3DG
+3DBG
+4DG
+4DBG
+5DG
+6DG
+7DG
+8DG
+Epilogue-G
+
+
+Museum pack -
+
+PrologueDash-G
+Old8DsMashup-G
+8EG
+OldOld7DG
+7EG
+Old7DG
+5BGV-G
+Old6DG
+OldOld3DG
+Old9DG (stitch together, figure out an alternative for there not being a golden in the level anymore).
+Old3DG
